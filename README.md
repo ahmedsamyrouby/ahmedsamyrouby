@@ -1,1 +1,1 @@
-<div style="position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; object-fit: cover; background-size: cover; background: url('https://raw.githubusercontent.com/ahmedsamyrouby/ahmedsamyrouby/main/shigeo-kageyama-mob-psycho100.gif') no-repeat center center; opacity: 0.5; pointer-events: none; z-index: -10;"></div>
+![Shigeo Kageyama](https://raw.githubusercontent.com/ahmedsamyrouby/ahmedsamyrouby/main/shigeo-kageyama-mob-psycho100.gif)
